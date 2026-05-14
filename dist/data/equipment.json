@@ -1,0 +1,4095 @@
+{
+  "id": "equipment",
+  "name": "设备通用题库（技能）",
+  "totalQuestions": 300,
+  "questions": [
+    {
+      "id": "equipment-1",
+      "category": "equipment",
+      "type": "single",
+      "question": "标准仪器周期检定不需要提供（   ）。",
+      "options": [
+        "标识",
+        "标识",
+        "标识",
+        "标识"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-2",
+      "category": "equipment",
+      "type": "single",
+      "question": "依据广州石化仪控专业管理办法要求，为了加强（   ）数据信息采集接口的维护管理，确保在信息数据采集接口发生故障时，能及时处理故障，迅速恢复接口通信。原则上装置数据通信应采用 OPC 通信方式，OPC Server 与缓存服务器分开设置，并配置防火墙等网络隔离保护设备。",
+      "options": [
+        "关系数据库",
+        "关系数据库",
+        "关系数据库",
+        "关系数据库"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-3",
+      "category": "equipment",
+      "type": "single",
+      "question": "浙江中控 ECS-700  DCS系统在线更换控制器属于高危操作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-4",
+      "category": "equipment",
+      "type": "single",
+      "question": "对SIS系统的SOE记录进行检查（   ）执行一次。",
+      "options": [
+        "每半月",
+        "每半月",
+        "每半月",
+        "每半月"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-5",
+      "category": "equipment",
+      "type": "single",
+      "question": "开关量类测量仪表包括过程（   ）、继电器触点等。",
+      "options": [
+        "变量开关",
+        "变量开关",
+        "变量开关",
+        "变量开关"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-6",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）等通信设备属仪控中心管理范畴。",
+      "options": [
+        "A扩音对讲系统",
+        "A扩音对讲系统",
+        "A扩音对讲系统",
+        "A扩音对讲系统"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-7",
+      "category": "equipment",
+      "type": "single",
+      "question": "目前常用的离线检测技术有（   ）、（   ）、（   ）。",
+      "options": [
+        "红外温度、红外成像检测",
+        "红外温度、红外成像检测",
+        "红外温度、红外成像检测",
+        "红外温度、红外成像检测"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-8",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间严禁带入)和（   ）物品，不得在机柜间内堆放杂物，机柜间内资料、工具、物品摆放整齐，机柜上禁放任何物品。",
+      "options": [
+        "调试",
+        "调试",
+        "调试",
+        "调试"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-9",
+      "category": "equipment",
+      "type": "single",
+      "question": "A级短信报警，主要包含A级控制系统（控制系统故障危及关键装置或多套装置全面停车的抢修和A级设备抢修）的控制系统本身的控制器卡件、通讯设备和网络、IO卡件和IOlink、电源模块等故障状态，3500系统、可以监控的SIS/CCS等外部系统和仪表设备的故障状态。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-10",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）对高频动作阀门的填料、电磁阀排气消音器进行检查。",
+      "options": [
+        "每半月",
+        "每半月",
+        "每半月",
+        "每半月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-11",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责实时数据接口（DCS系统内）的软硬件配置、运行维护工作，并做好相应的记录。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-12",
+      "category": "equipment",
+      "type": "single",
+      "question": "固定式可燃及有毒气体报警器零点检查、控制系统时钟同步检查、控制器负荷及通讯负荷检查，（   ）至少进行1次。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-13",
+      "category": "equipment",
+      "type": "single",
+      "question": "新上控制系统应安装配置（   ）软件，现有控制系统在升级时应安装配置白名单软件。",
+      "options": [
+        "白名单",
+        "白名单",
+        "白名单",
+        "白名单"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-14",
+      "category": "equipment",
+      "type": "single",
+      "question": "OPC服务器与数据服务层之间、数据服务层与生产运行管理层之间应分别设置（   ）设备。",
+      "options": [
+        "网络隔离",
+        "网络隔离",
+        "网络隔离",
+        "网络隔离"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-15",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表接线第二级确认：由设备接受方（如仪控中心车间、站）对（）（）（）接线端子（包括）进行紧固确认，进而对仪表回路的正确性进行检查确认，并作好记录，在记录表上签字。",
+      "options": [
+        "A现场仪表",
+        "A现场仪表",
+        "A现场仪表",
+        "A现场仪表"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-16",
+      "category": "equipment",
+      "type": "single",
+      "question": "本质安全型电气设备是指采取一定措施后,在正常或事故状态所产生的“火花”均为“安全火花”。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-17",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表人员处理联锁保护系统中的问题时，事先必须（   ）",
+      "options": [
+        "研究联锁图，",
+        "研究联锁图，",
+        "研究联锁图，",
+        "研究联锁图，"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-18",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统的电源状态管理应设置（   ）功能。",
+      "options": [
+        "电源显示",
+        "电源显示",
+        "电源显示",
+        "电源显示"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-19",
+      "category": "equipment",
+      "type": "single",
+      "question": "UPS的蓄电池应选用全密封阀控式或铅酸蓄电池，其后备时间一般为满负荷情况下持续运行至少（   ）。",
+      "options": [
+        "15min",
+        "15min",
+        "15min",
+        "15min"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-20",
+      "category": "equipment",
+      "type": "single",
+      "question": "DCS和SIS系统供电（   ）双路独立供电方式。",
+      "options": [
+        "宜采用",
+        "宜采用",
+        "宜采用",
+        "宜采用"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-21",
+      "category": "equipment",
+      "type": "single",
+      "question": "固定式可燃及有毒气体报警器通气试验（   ）执行一次。",
+      "options": [
+        "每半月",
+        "每半月",
+        "每半月",
+        "每半月"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-22",
+      "category": "equipment",
+      "type": "single",
+      "question": "中国石化炼化企业联锁保护系统管理细则附件包括（   ）",
+      "options": [
+        "A、联锁回路台账",
+        "A、联锁回路台账",
+        "A、联锁回路台账",
+        "A、联锁回路台账"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-23",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责停用仪表设备的保护，（   ）负责停用电气设备的保护。",
+      "options": [
+        "仪控中心、热电部",
+        "仪控中心、热电部",
+        "仪控中心、热电部",
+        "仪控中心、热电部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-24",
+      "category": "equipment",
+      "type": "single",
+      "question": "按照中国石化炼化企业联锁保护系统管理细则，工艺、设备或仪表等原因，需要解除联锁而且解除联锁时间在（   ）以内的按临时解除联锁处理。",
+      "options": [
+        "72小时",
+        "72小时",
+        "72小时",
+        "72小时"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-25",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控专业预防性工作策略中离线检测包含（   ）等内容。",
+      "options": [
+        "红外温度检测",
+        "红外温度检测",
+        "红外温度检测",
+        "红外温度检测"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-26",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）、（   ）参与在役装置SIL分析，落实在役装置SIL分析评估出的本专业问题的整改；其他单位视需要参加在役装置SIL分析。",
+      "options": [
+        "财务资产部",
+        "财务资产部",
+        "财务资产部",
+        "财务资产部"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-27",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统软件和应用软件必须有（   ），并妥善保管。",
+      "options": [
+        "单备份",
+        "单备份",
+        "单备份",
+        "单备份"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-28",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）、化学需氧量分析仪表（COD）、烟气监测系统（CEMS）、氨氮分析仪、LEL分析仪、VOCs分析仪等安全环保仪表均应按一台件统计。",
+      "options": [
+        "有毒气体报警仪表",
+        "有毒气体报警仪表",
+        "有毒气体报警仪表",
+        "有毒气体报警仪表"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-29",
+      "category": "equipment",
+      "type": "single",
+      "question": "严格遵照总部（   ）和（   ），并严格执行。按（   ）执行，禁止挪用、挤占修理费；合理用好可控费用，确保设备设施（   ）。",
+      "options": [
+        "炼化企业修理费使用管理规定",
+        "炼化企业修理费使用管理规定",
+        "炼化企业修理费使用管理规定",
+        "炼化企业修理费使用管理规定"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-30",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统应采用内置原子钟的（   ），外部时钟源只参与装置检修和改造后的首次校准系统时间，外部时钟源宜选用北斗。",
+      "options": [
+        "应用服务器",
+        "应用服务器",
+        "应用服务器",
+        "应用服务器"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-31",
+      "category": "equipment",
+      "type": "single",
+      "question": "对于重大风险，由保运队管理单位或生产运行区域提出，仪管室组织风险评估。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-32",
+      "category": "equipment",
+      "type": "single",
+      "question": "原则上从启动系统故障报警短信处理流程开始到检查人员去到现场机柜间的时间不能超过（   ），故障处理流程参照接到工艺报障处理流程执行。",
+      "options": [
+        "30分钟",
+        "30分钟",
+        "30分钟",
+        "30分钟"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-33",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制系统的密码必须单独建立密码台帐管理。不能明文存放于办公计算机中，其中工程师密码不能告知操作人员。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-34",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜布置时宜避免机柜间连接电缆过多交叉。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-35",
+      "category": "equipment",
+      "type": "single",
+      "question": "工单创建时，应按ERP达标考评细则和操作规范操作，合理填写工单估算费用和计划成本劳务费，工单的“估算费用”原则上（   ）工单“计划成本”。",
+      "options": [
+        "不小于",
+        "不小于",
+        "不小于",
+        "不小于"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-36",
+      "category": "equipment",
+      "type": "single",
+      "question": "下述介质使用FID仪器检测的有（   ）",
+      "options": [
+        "气体",
+        "气体",
+        "气体",
+        "气体"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-37",
+      "category": "equipment",
+      "type": "single",
+      "question": "两位式液动阀门（制氢PSA装置等）（   ）以下（含）整体由仪表专业负责；（   ）以上阀体由设备专业负责，控制线路和执行机构由仪表专业负责。",
+      "options": [
+        "DN150，DN150",
+        "DN150，DN150",
+        "DN150，DN150",
+        "DN150，DN150"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-38",
+      "category": "equipment",
+      "type": "single",
+      "question": "定期清扫工作主要包括：对控制系统机柜过滤网及风扇进行清理，（   ）至少进行1次；对工程师站、服务器、操作站等上位机主机进行清扫，（   ）至少进行1次；对机柜间及在线分析小屋空调过滤网、室外机散热片进行清扫，（   ）至少进行1次。",
+      "options": [
+        "每月",
+        "每月",
+        "每月",
+        "每月"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-39",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间、工程师室温度为冬季（   ）。",
+      "options": [
+        "20℃±2℃",
+        "20℃±2℃",
+        "20℃±2℃",
+        "20℃±2℃"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-40",
+      "category": "equipment",
+      "type": "single",
+      "question": "每次检修消缺应对联锁回路接线进行紧固，执行标准参照《仪表端子排接线施工安装指引》，填写《仪表接线三级检查确认表》",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-41",
+      "category": "equipment",
+      "type": "single",
+      "question": "高温浮球液位计、带注油孔的控制阀、长行程执行机构、带油雾润滑器的执行机构、刮板流量计等仪表（   ）进行润滑。",
+      "options": [
+        "每月",
+        "每月",
+        "每月",
+        "每月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-42",
+      "category": "equipment",
+      "type": "single",
+      "question": "装置控制系统（   ）备品配件管理要有专门的账卡，并保持一定数量的备品配件储备。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-43",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间温、湿度超标预警属于（   ）短信报警。",
+      "options": [
+        "A级",
+        "A级",
+        "A级",
+        "A级"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-44",
+      "category": "equipment",
+      "type": "single",
+      "question": "机组联锁联校时必须有负责联校的（   ）专业人员联合参加，并对联锁回路动作结果现场填写联锁保护系统确认表、签字确认：",
+      "options": [
+        "仪表专业人员、",
+        "仪表专业人员、",
+        "仪表专业人员、",
+        "仪表专业人员、"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-45",
+      "category": "equipment",
+      "type": "single",
+      "question": "凡是开展计划内且会引发故障报警短信的系统维护检修工作应提前报中心调度发布到石化通的广州石化仪表群及发出提醒短信，避免其他人员误会而执行故障处理工作流程。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-46",
+      "category": "equipment",
+      "type": "single",
+      "question": "至少每（   ）一次的220VAC、110VDC等联锁电磁阀进行红外温度检测。",
+      "options": [
+        "月",
+        "月",
+        "月",
+        "月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-47",
+      "category": "equipment",
+      "type": "single",
+      "question": "智能仪表、专用控制器的设置参数要做好记录，更换仪表设备时要按原参数恢复。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-48",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责实时数据接口（DCS、PLC系统外）的软硬件配置、运行维护工作，并做好相应的记录。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-49",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间内的机柜应按照功能相近、方便配线原则和下列规定分行、分段布置，满足安装、接线、检修需求，并预留至少（   ）的扩展空间。",
+      "options": [
+        "10%",
+        "10%",
+        "10%",
+        "10%"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-50",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制系统数据接口在系统（   ）进行配置，运行期间原则上不再接入新的设备，如确因生产急需，控制系统有新增设备需要接入，按照《广州石化设备设施变更管理实施细则》，由设备所在单位依据细则办理申请，进行变更审批后接入。",
+      "options": [
+        "设计阶段",
+        "设计阶段",
+        "设计阶段",
+        "设计阶段"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-51",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间的温湿度监测控制，机柜间、工程师室温度为冬季20℃±2℃，夏季26℃±2℃，相对湿度为（   ）。",
+      "options": [
+        "30%～60%",
+        "30%～60%",
+        "30%～60%",
+        "30%～60%"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-52",
+      "category": "equipment",
+      "type": "single",
+      "question": "UPS系统旁路供电时间超过（   ）天（含）的由热电部提出申请报告，经生产调度部、设备工程部、安全环保部主管部长同意后，由分公司电气副总工程师和相关专业副总工程师批准方可实施。",
+      "options": [
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-53",
+      "category": "equipment",
+      "type": "single",
+      "question": "安全完整性等级评估，包括（   ）和（   ）。",
+      "options": [
+        "SIL定级",
+        "SIL定级",
+        "SIL定级",
+        "SIL定级"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-54",
+      "category": "equipment",
+      "type": "single",
+      "question": "季节性维护防高温：有空调备机的地方要求（   ）切换一次测。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-55",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）是工控系统安全防护工作的执行部门，制定工业控制系统安全防护工作细则，并检查执行情况；采用管理手段和技术措施，制定工控系统安全升级等技术方案，部署安全防护措施。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-56",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制系统与企业信息管理系统间必须安装OPC服务器（   ）（负责）、病毒防火墙（   ）（负责），禁止企业信息管理系统向控制系统写入数据。",
+      "options": [
+        "仪控中心",
+        "仪控中心",
+        "仪控中心",
+        "仪控中心"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-57",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间活动地板下应安装线缆槽盒，槽盒内电缆充满系数宜为（   ）。",
+      "options": [
+        "0.2～0.30",
+        "0.2～0.30",
+        "0.2～0.30",
+        "0.2～0.30"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-58",
+      "category": "equipment",
+      "type": "single",
+      "question": "生产装置数据通信采用OPC方式，（   ）计算机由仪控中心维护，PHD缓存服务器由信息中心维护。",
+      "options": [
+        "OPCServer服务器",
+        "OPCServer服务器",
+        "OPCServer服务器",
+        "OPCServer服务器"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-59",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控设备按设备完整性管理体系要求，分A、B、C三级进行分级管理。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-60",
+      "category": "equipment",
+      "type": "single",
+      "question": "工艺联锁指某项工艺指标,如（   ）超出安全操作范围时，通过执行器或设备的运行状态，使工艺指标或过程回到安全状态的仪表功能。",
+      "options": [
+        "压力、",
+        "压力、",
+        "压力、",
+        "压力、"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-61",
+      "category": "equipment",
+      "type": "single",
+      "question": "通过在线监测及离线检测等方式采集仪表及控制系统状态信息，包括（）、（）、（）等，采用多种分析方法进行状态评估和分析；并结合与同类设备的比较，做出综合判断，发现设备异常并纳入缺陷管理；",
+      "options": [
+        "强度",
+        "强度",
+        "强度",
+        "强度"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-62",
+      "category": "equipment",
+      "type": "single",
+      "question": "对地下井仪表进水情况进行检查（   ）执行一次。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-63",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间的活动地板下地面应高于室外地面，且高度不应小于（   ）m。",
+      "options": [
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-64",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制系统软件备份应按装置及系统独立备份，备份介质至少2份并注明（   ），异地存放。可在备份的基础上采用GHOST硬盘在操作站和工程师站主机内离线存放。",
+      "options": [
+        "A装置名称",
+        "A装置名称",
+        "A装置名称",
+        "A装置名称"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-65",
+      "category": "equipment",
+      "type": "single",
+      "question": "接到报警短信人员（包括中心调度）应先在（   ）中发布1次报警短信信息，以便提醒相关管理人员关注和通报该故障已启动处理流程。",
+      "options": [
+        "石化通",
+        "石化通",
+        "石化通",
+        "石化通"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-66",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表检修质量一级、二级验收意见可直接签在仪表校验单上，存档和供上级单位检查。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-67",
+      "category": "equipment",
+      "type": "single",
+      "question": "原则上联锁长期摘除不应超过一个（   ）周期，对于联锁摘除超过一个周期的应重新办理。",
+      "options": [
+        "小修",
+        "小修",
+        "小修",
+        "小修"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-68",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）对安全仪表的报警器处置进行监督抽查。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-69",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）是工控系统安全防护工作的管理部门，制定安全方针和管理制度，并负责检查、落实。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-70",
+      "category": "equipment",
+      "type": "single",
+      "question": "值班人员每（   ）天对UPS装置巡检1次。",
+      "options": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-71",
+      "category": "equipment",
+      "type": "single",
+      "question": "施工方案和技术方案必须按附件表格填写《工作安全分析(JSA)记录表》，分析人员必须手写签名。分析人员需对施工方案和技术方案中的具体步骤的危害或潜在事件进行分析，并制订安全控制措施以降低风险。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-72",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统报废或者退出使用后，除保留必要的资料外，其余的资料和备份数据应（   ）。",
+      "options": [
+        "保留",
+        "保留",
+        "保留",
+        "保留"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-73",
+      "category": "equipment",
+      "type": "single",
+      "question": "风险值≤10的仪表作业一般不需要编制施工方案，但经仪管室明确需要编制方案的，参照三级技术文件格式由区域或班组技术人员进行编制，由区域主管人员审核，视实际情况送相关单位会签（取消三大管理部室会签栏），由区域领导和仪管室的主管人员审批后执行",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-74",
+      "category": "equipment",
+      "type": "single",
+      "question": "对就地控制系统液晶屏进行按键试验，通过触发HOME、HISTORY等非控制键检查液晶屏运行情况，执行频率是（   ）。",
+      "options": [
+        "1次/年",
+        "1次/年",
+        "1次/年",
+        "1次/年"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-75",
+      "category": "equipment",
+      "type": "single",
+      "question": "需要更改的仪表回路或系统，区域应按照上级有关管理规定办理变更手续（属于紧急抢修性质的变更应在实施后1个工作日内补办变更审批手续），变更完成后及时修改相关资料并在二周内做好存档工作，按照相关管理制度做好变更后评估和关闭工作，每年年初完成本单位上年度发生的变更的风险回顾和后评价",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-76",
+      "category": "equipment",
+      "type": "single",
+      "question": "装置一般工艺参数、单台一般设备工艺参数的报警为（   ）级报警。",
+      "options": [
+        "Ⅰ级",
+        "Ⅰ级",
+        "Ⅰ级",
+        "Ⅰ级"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-77",
+      "category": "equipment",
+      "type": "single",
+      "question": "对于国家没有检定规程，法定计量检定机构无法出具检定证书和校准证书的环保在线分析仪表，检验中心及仪控中心须编制自校验方法并报备企业标准，执行（   ）。",
+      "options": [
+        "自校准",
+        "自校准",
+        "自校准",
+        "自校准"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-78",
+      "category": "equipment",
+      "type": "single",
+      "question": "因工艺、设备或仪表等原因，需要解除联锁而且解除联锁时间在（   ）小时以内的按临时解除联锁处理。",
+      "options": [
+        "24",
+        "24",
+        "24",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-79",
+      "category": "equipment",
+      "type": "single",
+      "question": "装置一般控制仪表报警、影响装置局部生产的工艺参数报警为（   ）级报警。",
+      "options": [
+        "Ⅰ级",
+        "Ⅰ级",
+        "Ⅰ级",
+        "Ⅰ级"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-80",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责工业控制系统管理与监督，定期组织检查，对有关单位提出考核意见。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-81",
+      "category": "equipment",
+      "type": "single",
+      "question": "保持机柜间适宜（   ）、（   ），确保室内清洁卫生。",
+      "options": [
+        "舒适",
+        "舒适",
+        "舒适",
+        "舒适"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-82",
+      "category": "equipment",
+      "type": "single",
+      "question": "禁止（   ）、移动式测量仪器仪表从仪表供电系统取电。禁止（   ）、火灾报警系统、大屏幕显示设备、（   ）等非仪表负荷从仪表供电系统取电，应独立供电。",
+      "options": [
+        "非仪控设备",
+        "非仪控设备",
+        "非仪控设备",
+        "非仪控设备"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-83",
+      "category": "equipment",
+      "type": "single",
+      "question": "每天对系统进行日常检查，对系统的供电、硬件设备的运行状态、各机柜的风扇状况和完好情况、机房的温度和湿度、声、光报警等进行检查并做好记录，认真填写系统巡检记录，记录要字迹清楚、书写工整。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-84",
+      "category": "equipment",
+      "type": "single",
+      "question": "装置自控提升项目实施前，企业应确保实时数据库的数据采集周期应（   ），且具备OPCA&E、OPCDA等软件授权。",
+      "options": [
+        "≤1分钟",
+        "≤1分钟",
+        "≤1分钟",
+        "≤1分钟"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-85",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）、热电偶、（   ）、（   ）、（   ）和其它温度仪表均应按一台件统计。",
+      "options": [
+        "温度仪表",
+        "温度仪表",
+        "温度仪表",
+        "温度仪表"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-86",
+      "category": "equipment",
+      "type": "single",
+      "question": "应当结合现场实际，合理确定仪表设备（   ）。可靠性数据主要来源包括：现场维护数据；PHAMS数据库；认证报告或第三方报告相关功能安全信息；公开出版发行的工业数据库或手册。",
+      "options": [
+        "可靠性数据",
+        "可靠性数据",
+        "可靠性数据",
+        "可靠性数据"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-87",
+      "category": "equipment",
+      "type": "single",
+      "question": "若发生工控系统系统故障事故，仪控中心必须在（   ）内向有关主管部门提交事故报告。",
+      "options": [
+        "两日",
+        "两日",
+        "两日",
+        "两日"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-88",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控专业定时性工作，控制阀全覆盖巡回检查，检查长期处于小开度（   ）、振荡、超压差、超温等不符合设计工况的情况，采取工艺调整、阀门改进等措施。",
+      "options": [
+        "直行程＜5%，角行程＜5°",
+        "直行程＜5%，角行程＜5°",
+        "直行程＜5%，角行程＜5°",
+        "直行程＜5%，角行程＜5°"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-89",
+      "category": "equipment",
+      "type": "single",
+      "question": "数据只能从工控系统向管理系统单向传送，外部访问应有（   ）措施；从工控系统采集数据的单位负责落实安全措施，组织进行安全评估和测试，按照《广州石化仪控专业管理办法》办理相关审批手续。",
+      "options": [
+        "直接访问",
+        "直接访问",
+        "直接访问",
+        "直接访问"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-90",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制阀仪表风系统采用肥皂水或其它检漏液体定期对仪表风系统检漏，（   ）进行一次.",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-91",
+      "category": "equipment",
+      "type": "single",
+      "question": "哪项不是仪表专业KPI应检查的内容？（   ）",
+      "options": [
+        "控制阀门下线检修次数",
+        "控制阀门下线检修次数",
+        "控制阀门下线检修次数",
+        "控制阀门下线检修次数"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-92",
+      "category": "equipment",
+      "type": "single",
+      "question": "当N个不同工艺参数组成一个联锁触发条件的，按N个回路计算；测量同一个工艺参数的N台仪表，无论测量仪表台数或逻辑组合方式，均按（   ）个回路计算；当一台测量仪表设定二个定值，分别产生不同动作结果时，按（   ）个回路计算。",
+      "options": [
+        "一",
+        "一",
+        "一",
+        "一"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-93",
+      "category": "equipment",
+      "type": "single",
+      "question": "系统软件、应用软件要建立文件清单，应设专门管理人员保管，必须定期（   ）进行系统双备份保存（对系统应用程序更新下装后，要立即备份）；备份的存储设备必须专用，并注明软件的名称、备份日期、备份人员，同时对旧的软件标注“旧版”标识。保留期限2年。",
+      "options": [
+        "每天",
+        "每天",
+        "每天",
+        "每天"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-94",
+      "category": "equipment",
+      "type": "single",
+      "question": "C级短信报警，指A、B级信号以外的其它报警信号，主要包括C级控制系统设备报警；机柜间温、湿度超标预警。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-95",
+      "category": "equipment",
+      "type": "single",
+      "question": "应对操作监控层的工程（   ）、（   ）、报警及联锁设定值等重要数据进行备份和保护，双份异地存储，每年至少备份一次，每次备份至少保留一个大修周期。未经授权人员不得使用备份数据。",
+      "options": [
+        "组态文件",
+        "组态文件",
+        "组态文件",
+        "组态文件"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-96",
+      "category": "equipment",
+      "type": "single",
+      "question": "进出厂计量数采数据通信采用MODBUSTCP方式，MODBUSTCP转换器以下，含MODBUSTCP转换器由仪控中心维护，OPCServer服务器和（   ）由信息中心维护。",
+      "options": [
+        "OPCServer服务器",
+        "OPCServer服务器",
+        "OPCServer服务器",
+        "OPCServer服务器"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-97",
+      "category": "equipment",
+      "type": "single",
+      "question": "辅操台灯屏及音响试验（   ）执行一次。",
+      "options": [
+        "每半月",
+        "每半月",
+        "每半月",
+        "每半月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-98",
+      "category": "equipment",
+      "type": "single",
+      "question": "各区域提报的单项总计划费用（   ）的非生产性项目经中心主管领导审批后，在提报工单前，由仪表管理室负责向设备工程部报送相关的书面申请报告。",
+      "options": [
+        "≥2万元",
+        "≥2万元",
+        "≥2万元",
+        "≥2万元"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-99",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制仪表电源供电系统的设备应单独安装在室内，具备良好的运行环境，夏天运行环境温度以（   ）℃、相对湿度40%～60%为宜，并采取必要的降温、除湿、防潮、防尘措施。",
+      "options": [
+        "25±1",
+        "25±1",
+        "25±1",
+        "25±1"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-100",
+      "category": "equipment",
+      "type": "single",
+      "question": "二级技术文件由仪管室主管人员组织JSA风险评估。由仪控中心主管领导、分公司专家、HSE总监审核，由作业部设备主管及工艺主管、主管经理会签，由安全环保部、技术质量部相关科室专业人员或领导以及主管经理审定,设备工程部相关科室专业人员或领导以及主管经理审批",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-101",
+      "category": "equipment",
+      "type": "single",
+      "question": "区域会签要求：相关人员在技术协议打印件封面的最下行（   ）和（   ），内页的每页最下行可只签（   ）。技术协议会签单上须有（   ）签名",
+      "options": [
+        "全签姓名",
+        "全签姓名",
+        "全签姓名",
+        "全签姓名"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-102",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统“（   ）”应根据工艺操作需要和数据交换最小原则进行网络分区。",
+      "options": [
+        "横向分区",
+        "横向分区",
+        "横向分区",
+        "横向分区"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-103",
+      "category": "equipment",
+      "type": "single",
+      "question": "技术文件审批后，区域要组织所有参与的作业人员认真学习，并严格实施。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-104",
+      "category": "equipment",
+      "type": "single",
+      "question": "季节性维护工作有（   ）、（   ）、（   ）、防风防汛、防小动物、防尘等。",
+      "options": [
+        "防雷",
+        "防雷",
+        "防雷",
+        "防雷"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-105",
+      "category": "equipment",
+      "type": "single",
+      "question": "可编程序控制器采用循环扫描工作方式,这种工作方式可以避免继电器接触控制的触点竞争和时序失配问题。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-106",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心应对纳入短信报警的监控信号点进行筛选、甄别，并进行报警信息分级。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-107",
+      "category": "equipment",
+      "type": "single",
+      "question": "压力(差压)开关、压力(差压)变送器、电接点压力表和其它压力仪表均应按一台件统计。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-108",
+      "category": "equipment",
+      "type": "single",
+      "question": "原则上装置数据通信应采用OPC通信方式，OPCServer与缓存服务器分开设置，并配置（   ）等网络隔离保护设备。",
+      "options": [
+        "RS485",
+        "RS485",
+        "RS485",
+        "RS485"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-109",
+      "category": "equipment",
+      "type": "single",
+      "question": "安全栅柜、端子柜、继电器柜（   ）靠近信号电缆入口侧布置.",
+      "options": [
+        "应",
+        "应",
+        "应",
+        "应"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-110",
+      "category": "equipment",
+      "type": "single",
+      "question": "CCS、SIS为A级设备",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-111",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表检修质量三级确认单，对于联锁部分，在联锁联校记录单上签字确认；对于现场控制仪表和控制系统则需专门填写《广州石化仪表大修、更新、零购项目竣工验收表》",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-112",
+      "category": "equipment",
+      "type": "single",
+      "question": "目前常用的在线监测技术有（   ）。",
+      "options": [
+        "仪表电源状态监测",
+        "仪表电源状态监测",
+        "仪表电源状态监测",
+        "仪表电源状态监测"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-113",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控设备的前期管理是指规划、设计、（）、（）、（）投运阶段的全部管理工作。",
+      "options": [
+        "立项",
+        "立项",
+        "立项",
+        "立项"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-114",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）建立报警器异常情况统计台帐，统计分析当月报警器异常情况的原因。",
+      "options": [
+        "安全环保部",
+        "安全环保部",
+        "安全环保部",
+        "安全环保部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-115",
+      "category": "equipment",
+      "type": "single",
+      "question": "根据天气潮湿变化的具体情况加强对计算机控制室、机柜间等重要设备间的（   ）的检查和维护，确保湿度、温度满足要求。",
+      "options": [
+        "A门窗",
+        "A门窗",
+        "A门窗",
+        "A门窗"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-116",
+      "category": "equipment",
+      "type": "single",
+      "question": "建立健全控制系统（   ）应急预案，并组织演练，系统感染病毒后第一时间与信息网断开。",
+      "options": [
+        "系统失电",
+        "系统失电",
+        "系统失电",
+        "系统失电"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-117",
+      "category": "equipment",
+      "type": "single",
+      "question": "液位计有下列情况之一的应停止使用：（   ）。",
+      "options": [
+        "玻璃板（管）有裂纹、破碎",
+        "玻璃板（管）有裂纹、破碎",
+        "玻璃板（管）有裂纹、破碎",
+        "玻璃板（管）有裂纹、破碎"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-118",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统实行全寿命周期管理，安全防护设施建设应坚持（   ）、（   ）和（   ）的原则。",
+      "options": [
+        "同时设计",
+        "同时设计",
+        "同时设计",
+        "同时设计"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-119",
+      "category": "equipment",
+      "type": "single",
+      "question": "属于仪控专业定时性工作中定期检查内容的有（   ）。",
+      "options": [
+        "固定式可燃及有毒气体报警器零点检查",
+        "固定式可燃及有毒气体报警器零点检查",
+        "固定式可燃及有毒气体报警器零点检查",
+        "固定式可燃及有毒气体报警器零点检查"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-120",
+      "category": "equipment",
+      "type": "single",
+      "question": "各区域需建立完善的联锁系统基础资料，至少包括（   ）等资料。",
+      "options": [
+        "联锁逻辑图",
+        "联锁逻辑图",
+        "联锁逻辑图",
+        "联锁逻辑图"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-121",
+      "category": "equipment",
+      "type": "single",
+      "question": "分析仪表全覆盖巡回检查（   ）执行一次。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-122",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统涉外维修要先报（   ）和主管领导批准方可进行。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-123",
+      "category": "equipment",
+      "type": "single",
+      "question": "以后新增DCS系统数据接口，如与现有接口方式相同的，采用现有方式进行分工维护，如与现有方式不同，则由设备工程部与（   ）、（   ）、热电部协商解决。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-124",
+      "category": "equipment",
+      "type": "single",
+      "question": "液位变化时,浮球式液位计浮球所受的浮力也跟着变化,因而可以测出液位的高低。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-125",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心按时编制工控系统的各类计划，如：（   ）、（   ）、（   ）等，报设备工程部审查。",
+      "options": [
+        "备品配件计划",
+        "备品配件计划",
+        "备品配件计划",
+        "备品配件计划"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-126",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁仪表回路的分级按照生产重要性、介质安全环保、装置重要性、设备故障裕度4个维度。分为（   ）。",
+      "options": [
+        "A、B、C三级；",
+        "A、B、C三级；",
+        "A、B、C三级；",
+        "A、B、C三级；"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-127",
+      "category": "equipment",
+      "type": "single",
+      "question": "以下（   ）范围的作业风险级别定性为一级，需要按照一级要求开展工作，包括风险评估、方案编制、审批等。",
+      "options": [
+        "关键装置DCS系统、联锁系统不具备冗余功能的部件在线处理。",
+        "关键装置DCS系统、联锁系统不具备冗余功能的部件在线处理。",
+        "关键装置DCS系统、联锁系统不具备冗余功能的部件在线处理。",
+        "关键装置DCS系统、联锁系统不具备冗余功能的部件在线处理。"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-128",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责落实建设项目SIL分析费用；对于在役装置SIL分析提出的需要立项解决问题整改措施的项目，和相关单位一起落实费用，并委托设计。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-129",
+      "category": "equipment",
+      "type": "single",
+      "question": "安全仪表系统投用前认真审核、调试（单台仪表调试、回路调试、系统联校），详细记录确认的过程和结果，运行中做好（   ），保证安全功能可靠。",
+      "options": [
+        "维护",
+        "维护",
+        "维护",
+        "维护"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-130",
+      "category": "equipment",
+      "type": "single",
+      "question": "按照附则《中国石化炼化企业联锁保护系统管理细则》开展 SIL 评估管理工作，做好评估报告审查及对评估建议措施实施（ ）管理。",
+      "options": [
+        "开环",
+        "开环",
+        "开环",
+        "开环"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-131",
+      "category": "equipment",
+      "type": "single",
+      "question": "每年10月至次年1月组织对仪表设备的防水防潮情况进行全面普查，要求在2月1日前完成普查，（   ）前基本完成整改。",
+      "options": [
+        "2月15日",
+        "2月15日",
+        "2月15日",
+        "2月15日"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-132",
+      "category": "equipment",
+      "type": "single",
+      "question": "超声波物位计由于探头不能承受过高温度,所以不能对高温介质进行物位测量。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-133",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心内部按三级质量验收来管理：哪三级（   ）？",
+      "options": [
+        "第一级为班组，其中班长或项目负责人或技术员为第一级检修项目的直接责任人",
+        "第一级为班组，其中班长或项目负责人或技术员为第一级检修项目的直接责任人",
+        "第一级为班组，其中班长或项目负责人或技术员为第一级检修项目的直接责任人",
+        "第一级为班组，其中班长或项目负责人或技术员为第一级检修项目的直接责任人"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-134",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）是生产过程报警系统（仪）的技术管理部门。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-135",
+      "category": "equipment",
+      "type": "single",
+      "question": "在装置运行期间，工控系统机柜间内应控制使用（   ）工具。",
+      "options": [
+        "修理",
+        "修理",
+        "修理",
+        "修理"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-136",
+      "category": "equipment",
+      "type": "single",
+      "question": "以后新增DCS系统数据接口，如与现有接口方式相同的，采用（   ）进行分工维护，如与现有方式不同，则由设备工程部与信息中心、仪控中心、热电部协商解决。",
+      "options": [
+        "重新制定",
+        "重新制定",
+        "重新制定",
+        "重新制定"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-137",
+      "category": "equipment",
+      "type": "single",
+      "question": "在紧急情况下可以临时切除联锁，由操作班长请示装置主管同意后由（   ）签字办理《联锁保护系统工作票》；即可执行。",
+      "options": [
+        "仪表工程师",
+        "仪表工程师",
+        "仪表工程师",
+        "仪表工程师"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-138",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）是分公司联锁保护系统的维护、检修责任单位，负责建立联锁保护系统完整的设备台帐、资料，提出检修更新计划。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-139",
+      "category": "equipment",
+      "type": "single",
+      "question": "检查机柜、操作台等门锁（   ），钥匙（   ）并规范存放。",
+      "options": [
+        "锁好",
+        "锁好",
+        "锁好",
+        "锁好"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-140",
+      "category": "equipment",
+      "type": "single",
+      "question": "第三方应用系统采用MODBUSTCP/IP通信协议直接接入过程控制层交换机的设备和系统，应加装（   ）。",
+      "options": [
+        "商用防火墙",
+        "商用防火墙",
+        "商用防火墙",
+        "商用防火墙"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-141",
+      "category": "equipment",
+      "type": "single",
+      "question": "三级技术文件由区域主管人员编写和组织JSA风险评估，由区域领导、仪表管理室主管人员审核，视实际情况送相关单位会签，再经各管理部室专业技术人员会签，最后由中心HSE总监审定，报仪控中心主管领导审批后执行",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-142",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心和各作业部每月填报《联锁月度摘/投清单》，内容包括（   ）；",
+      "options": [
+        "联锁摘除清单、",
+        "联锁摘除清单、",
+        "联锁摘除清单、",
+        "联锁摘除清单、"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-143",
+      "category": "equipment",
+      "type": "single",
+      "question": "电气配电室至仪表机柜间信号电缆，以进机柜间（   ）为界，端子以前部分由电气负责，端子及以后部分由仪表负责；",
+      "options": [
+        "第一道端子",
+        "第一道端子",
+        "第一道端子",
+        "第一道端子"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-144",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表线路与绝热的工艺设备和管道的绝热层表面之间的距离应大于（   ），与其他工艺设备、管道的表面之间的距离应大于（   ）。",
+      "options": [
+        "200mm",
+        "200mm",
+        "200mm",
+        "200mm"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-145",
+      "category": "equipment",
+      "type": "single",
+      "question": "故障处理完毕后，检查处理人员将故障处理结果报给（   ）发布到石化通和生产短信。",
+      "options": [
+        "值班人员",
+        "值班人员",
+        "值班人员",
+        "值班人员"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-146",
+      "category": "equipment",
+      "type": "single",
+      "question": "装置大修或检修消缺的仪表检修质量验收系统。区域班组技术员按要求将需要参加验收的设备逐点导入到设备完整性管理系统A14检修管理下的盲板与质量管理的验收项目的仪表设备验收下，然后开工后要按检修工序同步用智能手持终端进行扫描验收，根据要求上传验收的数据或图片存档。项目完工后要达到100%验收完成",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-147",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责联锁保护系统临时切除批准和盘面切除开关、操作站软开关的操作，并办理相关手续。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-148",
+      "category": "equipment",
+      "type": "single",
+      "question": "双法兰液位计安装时要注意正负压室位置不要装错,正压室装在设备上面取压口,负压室装在设备下面取压口。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-149",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间内应预留服务器柜的安装位置。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-150",
+      "category": "equipment",
+      "type": "single",
+      "question": "区域的技术协议签订参与人和负责人（由技术组长或主任师或主任担任），负责人负责区域对外的协调工作",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-151",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间入口（   ）安装防鼠挡板。",
+      "options": [
+        "应",
+        "应",
+        "应",
+        "应"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-152",
+      "category": "equipment",
+      "type": "single",
+      "question": "一级能源仪表（贸易交接计量）为A级设备，二级能源（装置间物料平衡、能耗核算）计量仪表、固定式可燃及有毒气体报警仪为B级设备；其它设备按照生产重要性、介质安全环保、装置重要性、设备故障裕度4个维度进行定级。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-153",
+      "category": "equipment",
+      "type": "single",
+      "question": "对高温浮球液位计、（）、（）、（）、（）等仪表进行润滑，每半年至少进行 1 次。",
+      "options": [
+        "带注油孔的控制阀",
+        "带注油孔的控制阀",
+        "带注油孔的控制阀",
+        "带注油孔的控制阀"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-154",
+      "category": "equipment",
+      "type": "single",
+      "question": "OPC服务器直接通过（   ）或（   ）与（   ）（或数据服务层）进行隔离。",
+      "options": [
+        "工业防火墙",
+        "工业防火墙",
+        "工业防火墙",
+        "工业防火墙"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-155",
+      "category": "equipment",
+      "type": "single",
+      "question": "工业直读式仪表：不带电接点的压力表、水银温度计、温包式温度计、双金属温度计、玻璃板液位计、磁翻板液位计、不带远传的转子流量计等均由（   ）负责管理。",
+      "options": [
+        "生产作业部",
+        "生产作业部",
+        "生产作业部",
+        "生产作业部"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-156",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心和各作业部每月填报（   ）",
+      "options": [
+        "联锁月度摘/投清单",
+        "联锁月度摘/投清单",
+        "联锁月度摘/投清单",
+        "联锁月度摘/投清单"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-157",
+      "category": "equipment",
+      "type": "single",
+      "question": "PKS  DCS系统在线修改组态换属于高危操作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-158",
+      "category": "equipment",
+      "type": "single",
+      "question": "放射性仪表的维护人员应接受专门培训，才能进行仪表的维护校准，须指定专职维护人员，并配备必要的（   ）。",
+      "options": [
+        "防护用品",
+        "防护用品",
+        "防护用品",
+        "防护用品"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-159",
+      "category": "equipment",
+      "type": "single",
+      "question": "下列阀门在线更换操作属于高危操作：（   ）。",
+      "options": [
+        "轻催、重催装置滑阀控制器、伺服阀在线更换。",
+        "轻催、重催装置滑阀控制器、伺服阀在线更换。",
+        "轻催、重催装置滑阀控制器、伺服阀在线更换。",
+        "轻催、重催装置滑阀控制器、伺服阀在线更换。"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-160",
+      "category": "equipment",
+      "type": "single",
+      "question": "为满足SIL等级要求，SIF传感器、逻辑控制器、执行机构等应当具有（   ）的硬件故障裕度。",
+      "options": [
+        "最低",
+        "最低",
+        "最低",
+        "最低"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-161",
+      "category": "equipment",
+      "type": "single",
+      "question": "在线修改程序属于高危操作的系统包括：（   ）。",
+      "options": [
+        "关键装置SIS系统联锁逻辑在线修改。",
+        "关键装置SIS系统联锁逻辑在线修改。",
+        "关键装置SIS系统联锁逻辑在线修改。",
+        "关键装置SIS系统联锁逻辑在线修改。"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-162",
+      "category": "equipment",
+      "type": "single",
+      "question": "可不设置电涌保护器的仪表（）",
+      "options": [
+        "热电偶",
+        "热电偶",
+        "热电偶",
+        "热电偶"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-163",
+      "category": "equipment",
+      "type": "single",
+      "question": "定时性事务包括（不限于）：（   ），可燃、有毒报警器定期标定、检定，控制仪表系统功能测试等。",
+      "options": [
+        "A仪表设备红外测温检测",
+        "A仪表设备红外测温检测",
+        "A仪表设备红外测温检测",
+        "A仪表设备红外测温检测"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-164",
+      "category": "equipment",
+      "type": "single",
+      "question": "安全栅柜、端子柜、继电器柜宜靠近信号电缆入口侧布置。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-165",
+      "category": "equipment",
+      "type": "single",
+      "question": "可燃、有毒气体报警仪设计、选型与安装遵循（   ）的要求。",
+      "options": [
+        "《中国石化生〔2005〕531号文》",
+        "《中国石化生〔2005〕531号文》",
+        "《中国石化生〔2005〕531号文》",
+        "《中国石化生〔2005〕531号文》"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-166",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表盘（柜）的仪表供电开关宜留有至少（   ）备用回路。严禁从仪表电源上向非仪表负载供电；严禁从仪表电源上搭接临时负载。",
+      "options": [
+        "0.05",
+        "0.05",
+        "0.05",
+        "0.05"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-167",
+      "category": "equipment",
+      "type": "single",
+      "question": "穿钢管或槽盒的仪表信号电缆路径与防雷引下线的敷设间距，交叉敷设应不小于（），平行敷设应不小于（）",
+      "options": [
+        "1米",
+        "1米",
+        "1米",
+        "1米"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-168",
+      "category": "equipment",
+      "type": "single",
+      "question": "软件备份要注明（   ）、（   ）、（   ），并将有关修改设计资料存档。",
+      "options": [
+        "软件名称",
+        "软件名称",
+        "软件名称",
+        "软件名称"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-169",
+      "category": "equipment",
+      "type": "single",
+      "question": "工艺联锁是指指某项工艺指标（   ）超出安全操作范围时，通过执行器或设备的运行状态，使工艺指标或过程回到安全状态的仪表功能。",
+      "options": [
+        "压力",
+        "压力",
+        "压力",
+        "压力"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-170",
+      "category": "equipment",
+      "type": "single",
+      "question": "进入机柜间内按规定穿鞋着装，无关人员不得擅自进入机柜间内。确需进入须征得当班班长或主管同意，并（   ）后方可进入。",
+      "options": [
+        "登记",
+        "登记",
+        "登记",
+        "登记"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-171",
+      "category": "equipment",
+      "type": "single",
+      "question": "应严格控制单点联锁的应用,当SIS系统联锁测量仪表故障强度等级为（   ）时，测量仪表应设计为“三取二或二取二”冗余配置，以提高联锁保护功能的可用性，降低误动作概率。",
+      "options": [
+        "1级~3级",
+        "1级~3级",
+        "1级~3级",
+        "1级~3级"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-172",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）是工业控制系统的技术主管部门，负责工控系统的技术管理工作，审批工控系统配置变更申请，审批工控系统相关计划和检查其执行情况。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-173",
+      "category": "equipment",
+      "type": "single",
+      "question": "影响装置整体生产的关键控制参数以及与人身安全、设备安全、环保直接相关的工艺参数报警为（   ）级报警。",
+      "options": [
+        "Ⅰ级",
+        "Ⅰ级",
+        "Ⅰ级",
+        "Ⅰ级"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-174",
+      "category": "equipment",
+      "type": "single",
+      "question": "采用便携式接地环路电阻测试钳表，（   ）至少一次对控制系统机柜（包括就地控制柜）工作接地汇流排和保护接地汇流排的接地干线，连接电阻不应大于1Ω。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-175",
+      "category": "equipment",
+      "type": "single",
+      "question": "登录、访问工控系统计算机应采用（   ）、（   ）、（   ）、IC卡等手段进行身份认证管理，采用口令密码时应设置强口令密码，并定期更新。对于关键设备、系统和平台的访问宜采用多因素认证。",
+      "options": [
+        "USB密钥",
+        "USB密钥",
+        "USB密钥",
+        "USB密钥"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-176",
+      "category": "equipment",
+      "type": "single",
+      "question": "过程控制层、操作监控层网络应按照物理子网或者设备虚拟局域网方式设置（   ），优先采用物理子网的分区方式。",
+      "options": [
+        "横向分区",
+        "横向分区",
+        "横向分区",
+        "横向分区"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-177",
+      "category": "equipment",
+      "type": "single",
+      "question": "区域参与技术协议的审核;负责联系工艺或设计确认项目应用的工艺条件与参数;负责与厂商商定技术协议初版的具体内容。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-178",
+      "category": "equipment",
+      "type": "single",
+      "question": "凡是会引起联锁停车的按钮或开关必须配有（   ）",
+      "options": [
+        "防护罩",
+        "防护罩",
+        "防护罩",
+        "防护罩"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-179",
+      "category": "equipment",
+      "type": "single",
+      "question": "FOXBORO IA CP280 DCS系统在线更换控制器属于高危操作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-180",
+      "category": "equipment",
+      "type": "single",
+      "question": "每月（   ）前对控制阀故障进行总结和分析，并提交仪表管理室。",
+      "options": [
+        "10日",
+        "10日",
+        "10日",
+        "10日"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-181",
+      "category": "equipment",
+      "type": "single",
+      "question": "新装置或设备大修后联锁系统正式投运前,由区域内部先做好仪表联锁回路的（   ），再会同工艺人员及相关专业人员对每个回路逐一进行功能确认，并在《联锁保护系统联动实验确认表》上签字，方可投入使用。",
+      "options": [
+        "单校",
+        "单校",
+        "单校",
+        "单校"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-182",
+      "category": "equipment",
+      "type": "single",
+      "question": "防病毒软件宜优先选用（   ）病毒防护软件，以防止防病毒软件攻击正常操作软件导致事故发生。防病毒软件必须为合法授权的正式版本，并通过工控厂家兼容性等测试。",
+      "options": [
+        "主动式",
+        "主动式",
+        "主动式",
+        "主动式"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-183",
+      "category": "equipment",
+      "type": "single",
+      "question": "对就地控制系统液晶屏进行按键试验，通过触发HOME、HISTORY等非控制键检查液晶屏运行情况，每（   ）进行一次。",
+      "options": [
+        "季度",
+        "季度",
+        "季度",
+        "季度"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-184",
+      "category": "equipment",
+      "type": "single",
+      "question": "UPS的蓄电池应选用全密封阀控式或铅酸蓄电池，其后备时间一般为满负荷（   ）。",
+      "options": [
+        "15min",
+        "15min",
+        "15min",
+        "15min"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-185",
+      "category": "equipment",
+      "type": "single",
+      "question": "带联锁自启动的机组备用可不盘车，生产作业部可根据泵型特点（或有特殊要求不能定期盘车的）自行拟定，做好备案，如果需要盘车应临时切除自启动联锁。",
+      "options": [
+        "润滑油泵",
+        "润滑油泵",
+        "润滑油泵",
+        "润滑油泵"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-186",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控设备软硬件变更，特别是（   ）、联锁和报警变更，均应进行风险评估和审批。",
+      "options": [
+        "量程",
+        "量程",
+        "量程",
+        "量程"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-187",
+      "category": "equipment",
+      "type": "single",
+      "question": "确定控制阀故障后及时通知保运队，同时通知中心调度。保运队安排相关人员到指定现场，并确定到场时间，原则上要求（   ）带齐工具到现场。",
+      "options": [
+        "5分钟",
+        "5分钟",
+        "5分钟",
+        "5分钟"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-188",
+      "category": "equipment",
+      "type": "single",
+      "question": "各区域需委托外协单位对设备进行维修的项目，各单位提报维修申请经三级审批同意后，维修费用（   ）的项目，由仪表管理室填写好《零星维修费发票报销项目立项申请表》交设备工程部审批同意后实施；",
+      "options": [
+        "≤1万元",
+        "≤1万元",
+        "≤1万元",
+        "≤1万元"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-189",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责制订、修改分公司实时数据库数据采集接口维护管理办法，协调信息中心、仪控中心、热电部相关运行维护工作，并负责检查、落实。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-190",
+      "category": "equipment",
+      "type": "single",
+      "question": "对高温浮球液位计、带注油孔的控制阀、长行程执行机构、带油雾润滑器的执行机构、刮板流量计等仪表进行润滑，（   ）至少进行1次。",
+      "options": [
+        "每月",
+        "每月",
+        "每月",
+        "每月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-191",
+      "category": "equipment",
+      "type": "single",
+      "question": "建立健全《季节性及其他维护清单》，应包括维护类型（如防雷、防雨防潮、防振动等）、设备类型、位号、位置等信息，（   ）建立一次。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-192",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控设备管理实行从规划、（   ）、使用、维护、修理、改造、更新直至报废的全生命周期管理，保障仪控设备处于良好状态。",
+      "options": [
+        "设计",
+        "设计",
+        "设计",
+        "设计"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-193",
+      "category": "equipment",
+      "type": "single",
+      "question": "电站汽轮机组巡检内容要求1）装置工艺操作专业按岗位操作规程要求定时巡检，主要检查调整各工艺参数，监控机组运行机械参数，并做好相应的（   ）。",
+      "options": [
+        "巡检挂牌",
+        "巡检挂牌",
+        "巡检挂牌",
+        "巡检挂牌"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-194",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心内部按（   ）质量验收来管理。",
+      "options": [
+        "三级",
+        "三级",
+        "三级",
+        "三级"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-195",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）至少对所有氧含量分析仪标定一次，发现问题及时处理。",
+      "options": [
+        "每季度",
+        "每季度",
+        "每季度",
+        "每季度"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-196",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间、工程师室温度为夏季（   ）。",
+      "options": [
+        "20℃±1℃",
+        "20℃±1℃",
+        "20℃±1℃",
+        "20℃±1℃"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-197",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统在工厂（   ）、（   ）、（   ）应同步安装防病毒软件。",
+      "options": [
+        "生产制造",
+        "生产制造",
+        "生产制造",
+        "生产制造"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-198",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间、工程师室地面应采用（   ）。",
+      "options": [
+        "防静电活动地板",
+        "防静电活动地板",
+        "防静电活动地板",
+        "防静电活动地板"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-199",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间入口设置静电释放装置，静电释放装置与机柜间接地网连接牢固，静电释放装置工作正常且可靠固定。材质：选用（   ）不锈钢材质，圆球直径（   ）,立柱直径34mm,高（   ），并张贴“（   ）”标识。",
+      "options": [
+        "304",
+        "304",
+        "304",
+        "304"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-200",
+      "category": "equipment",
+      "type": "single",
+      "question": "配电柜应布置在靠近电源电缆（   ）侧。",
+      "options": [
+        "入口",
+        "入口",
+        "入口",
+        "入口"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-201",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁仪表回路的分级中A级（   ）",
+      "options": [
+        "≥2.8分；",
+        "≥2.8分；",
+        "≥2.8分；",
+        "≥2.8分；"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-202",
+      "category": "equipment",
+      "type": "single",
+      "question": "应（   ）对氧化锆分析仪的零点和量程进行标定。",
+      "options": [
+        "每月",
+        "每月",
+        "每月",
+        "每月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-203",
+      "category": "equipment",
+      "type": "single",
+      "question": "UPS在试运时必须经（   ）现场确认。",
+      "options": [
+        "值班电工",
+        "值班电工",
+        "值班电工",
+        "值班电工"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-204",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制室用电应采用TN-S系统。整改系统中，保护线PE与中线N是分开的。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-205",
+      "category": "equipment",
+      "type": "single",
+      "question": "每月（   ）前对保运服务质量提出考核意见报仪表管理室和中心领导审核，通过后负责填写、提交承包商考核单。",
+      "options": [
+        "25日",
+        "25日",
+        "25日",
+        "25日"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-206",
+      "category": "equipment",
+      "type": "single",
+      "question": "对易积灰、结焦、堵塞的传感器进行下线清理或在线手动强制反吹（   ）执行一次。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-207",
+      "category": "equipment",
+      "type": "single",
+      "question": "液位计应实行定期检修制度，检修周期与大检修或压力容器检验周期同步，但不应超过压力容器（   ）。",
+      "options": [
+        "年度检查周期",
+        "年度检查周期",
+        "年度检查周期",
+        "年度检查周期"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-208",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁保护系统定时性维护工作包括（   ）。",
+      "options": [
+        "至少每周一次的机柜（台）门锁、USB锁、机柜钥匙等设施的完好检查，(逻辑)控制器各硬件指示灯、后备电池的检查。",
+        "至少每周一次的机柜（台）门锁、USB锁、机柜钥匙等设施的完好检查，(逻辑)控制器各硬件指示灯、后备电池的检查。",
+        "至少每周一次的机柜（台）门锁、USB锁、机柜钥匙等设施的完好检查，(逻辑)控制器各硬件指示灯、后备电池的检查。",
+        "至少每周一次的机柜（台）门锁、USB锁、机柜钥匙等设施的完好检查，(逻辑)控制器各硬件指示灯、后备电池的检查。"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-209",
+      "category": "equipment",
+      "type": "single",
+      "question": "DCS和SIS系统供电（   ）双路独立供电方式。",
+      "options": [
+        "宜采用",
+        "宜采用",
+        "宜采用",
+        "宜采用"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-210",
+      "category": "equipment",
+      "type": "single",
+      "question": "OPCServer与PHD缓存服务器之间的（   ）由信息中心负责维护。",
+      "options": [
+        "OPCServer服务器",
+        "OPCServer服务器",
+        "OPCServer服务器",
+        "OPCServer服务器"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-211",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统应采用（   ）的交换机，在操作监控层设置网管监控站，安装相应管理软件，对交换机的端口、网络拓扑、工作状态、运行负荷进行监测管理。",
+      "options": [
+        "带网管功能",
+        "带网管功能",
+        "带网管功能",
+        "带网管功能"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-212",
+      "category": "equipment",
+      "type": "single",
+      "question": "为了确保仪表示值准确，依法或依据规程对仪表进行的定期性工作，包括（   ）、（   ）、（   ）。",
+      "options": [
+        "定期检验",
+        "定期检验",
+        "定期检验",
+        "定期检验"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-213",
+      "category": "equipment",
+      "type": "single",
+      "question": "操作监控层的设备应采用（   ）系统安装原则，禁止安装与工控系统功能和安全防护无关的软件和硬件。",
+      "options": [
+        "能装尽装",
+        "能装尽装",
+        "能装尽装",
+        "能装尽装"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-214",
+      "category": "equipment",
+      "type": "single",
+      "question": "技改技措项目、改扩建、新建装置的室外仪表接线质量的“三级检查确认”验收，采用《仪表接线三级检查确认表》格式和相关要求，归入到大修质检表单中。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-215",
+      "category": "equipment",
+      "type": "single",
+      "question": "在紧急情况下临时切除联锁，经工艺班长同意后，",
+      "options": [
+        "仪表人员可以一人旁路联锁，不需要监护",
+        "仪表人员可以一人旁路联锁，不需要监护",
+        "仪表人员可以一人旁路联锁，不需要监护",
+        "仪表人员可以一人旁路联锁，不需要监护"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-216",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控中心负责对各生产装置的生产过程报警系统的（   ），协助作业部对生产过程报警进行管理。",
+      "options": [
+        "安装工作",
+        "安装工作",
+        "安装工作",
+        "安装工作"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-217",
+      "category": "equipment",
+      "type": "single",
+      "question": "发布电气和仪表专业高危作业的目的是：（   ）。",
+      "options": [
+        "加强维护作业风险管控",
+        "加强维护作业风险管控",
+        "加强维护作业风险管控",
+        "加强维护作业风险管控"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-218",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间温湿度监测，机柜间应设置带（   ）标准信号输出的温湿度仪，将温湿度信号接入DCS，同时传送至状态监测平台，设置报警。",
+      "options": [
+        "0V～5V",
+        "0V～5V",
+        "0V～5V",
+        "0V～5V"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-219",
+      "category": "equipment",
+      "type": "single",
+      "question": "紧急停车的联锁保护系统具有手动停车功能，以确保出现操作事故联锁失灵的异常状",
+      "options": [
+        "防护罩；",
+        "防护罩；",
+        "防护罩；",
+        "防护罩；"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-220",
+      "category": "equipment",
+      "type": "single",
+      "question": "不同物理网络分区之间的网络交换机以及不同网络分层之间的网络交换机均（   ）。",
+      "options": [
+        "可以共用",
+        "可以共用",
+        "可以共用",
+        "可以共用"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-221",
+      "category": "equipment",
+      "type": "single",
+      "question": "我们常讲的紧急停车系统(ESD)、安全联锁系统(SIS)、仪表保护系统(IPS)均可称为安全仪表系统(SIS)。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-222",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁保护系统的仪表、器件应按照最新版的《联锁仪表分级与联锁仪表生命周期管理》规定的使用周期更新，更换设备时禁止使用出厂日期超过（   ）个大修周期的设备",
+      "options": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-223",
+      "category": "equipment",
+      "type": "single",
+      "question": "参与联锁和控制的仪表电源要求：（   ）。",
+      "options": [
+        "参与联锁和控制的仪表优先选用冗余直流供电",
+        "参与联锁和控制的仪表优先选用冗余直流供电",
+        "参与联锁和控制的仪表优先选用冗余直流供电",
+        "参与联锁和控制的仪表优先选用冗余直流供电"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-224",
+      "category": "equipment",
+      "type": "single",
+      "question": "ICS Trusted  SIS系统通讯卡在线更换属于高危操作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-225",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制系统如有新增数据采集要求，按照《广州石化生产实时数据库系统应用管理细则》，由（数据使用单位）依据细则办理申请，审核通过后，增加数据采集点。",
+      "options": [
+        "信息中心",
+        "信息中心",
+        "信息中心",
+        "信息中心"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-226",
+      "category": "equipment",
+      "type": "single",
+      "question": "接地连接电阻检测，采用便携式接地环路电阻测试钳表，每年至少一次对控制系统机柜工作接地汇流排和保护接地回流排的接地干线，进行接地电阻检测，不应大于（   ）。",
+      "options": [
+        "1Ω",
+        "1Ω",
+        "1Ω",
+        "1Ω"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-227",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统操作人员要精心使用，发现（   ）及时通知仪控中心维修人员处理，配合仪表检修工作。",
+      "options": [
+        "工艺报警",
+        "工艺报警",
+        "工艺报警",
+        "工艺报警"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-228",
+      "category": "equipment",
+      "type": "single",
+      "question": "电缆不应有中间接头，当因故障处理需要转接时，应使用专用（   ）或（   ），并安装固定在醒目位置处，严禁把接线接头埋在（   ）内或（   ）内，且在有检修机会时应重新敷设电缆。",
+      "options": [
+        "接线箱",
+        "接线箱",
+        "接线箱",
+        "接线箱"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-229",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统应按“（   ）”原则设置网络各层级，在操作监控层和工厂网络的生产运行管理层之间应设置数据服务层，各层级之间应采用网络交换机连接。",
+      "options": [
+        "横向分区",
+        "横向分区",
+        "横向分区",
+        "横向分区"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-230",
+      "category": "equipment",
+      "type": "single",
+      "question": "禁止从企业外部远程（   ）、（   ）DCS、FCS、SCADA、PLSIS、CCS等关键工控系统。",
+      "options": [
+        "打印",
+        "打印",
+        "打印",
+        "打印"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-231",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表电源竣工后，由（   ）、（   ）专业按有关规范共同测试、验收合格后方可投用。",
+      "options": [
+        "工艺",
+        "工艺",
+        "工艺",
+        "工艺"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-232",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表接线第二级确认：由设备接受方（仪控中心车间、站）对仪表回路接线端子（包括）进行紧固确认，进而对（   ）仪表回路的正确性进行检查确认，并作好记录，在记录表上签字。",
+      "options": [
+        "现场仪表",
+        "现场仪表",
+        "现场仪表",
+        "现场仪表"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-233",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁保护系统的变更按照《广州石化变更管理办法》执行,由申请单位填写（   ）等变更表,向相关变更主管部门提出申请。",
+      "options": [
+        "变更等级评估表",
+        "变更等级评估表",
+        "变更等级评估表",
+        "变更等级评估表"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-234",
+      "category": "equipment",
+      "type": "single",
+      "question": "工业仪表控制系统安全防护实施细则主要针对工控系统网络的（   ）。",
+      "options": [
+        "配置组态",
+        "配置组态",
+        "配置组态",
+        "配置组态"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-235",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责办理实时数据库位号组态变更的网上申请手续。",
+      "options": [
+        "值班人员",
+        "值班人员",
+        "值班人员",
+        "值班人员"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-236",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间应设置带（   ）标准信号输出的温湿度仪。",
+      "options": [
+        "1V-5V",
+        "1V-5V",
+        "1V-5V",
+        "1V-5V"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-237",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表风净化后的气体中不应含有（   ）气体（或蒸汽）。在操作压力下的气源露点，应比工作环境或历史上当地年极端最低温度至少低10℃。",
+      "options": [
+        "易燃",
+        "易燃",
+        "易燃",
+        "易燃"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-238",
+      "category": "equipment",
+      "type": "single",
+      "question": "与工控系统无关的网络和设备不得接入工控系统网络，工控系统严禁与数采网之外的信息网络进行物理连接，工控系统与数采信息管理系统间应采取（   ）等隔离措施，以防范外来计算机病毒侵害。",
+      "options": [
+        "商用防火墙",
+        "商用防火墙",
+        "商用防火墙",
+        "商用防火墙"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-239",
+      "category": "equipment",
+      "type": "single",
+      "question": "在装置停工检修期间，宜对备件进行通电试验，确保其处于（   ）状态。",
+      "options": [
+        "投用",
+        "投用",
+        "投用",
+        "投用"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-240",
+      "category": "equipment",
+      "type": "single",
+      "question": "下达后工单的修改，必须按工单变更流程提出申请与履行审批。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-241",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责联锁的操作纪律监督管理，是工艺联锁安全功能的主管部门，负责对炼化装置生产工艺联锁值、报警值确认审批，并对联锁保护系统变更审批内容进行审批、会签。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-242",
+      "category": "equipment",
+      "type": "single",
+      "question": "一级技术文件由仪控中心HSE总监组织JSA风险评估。由仪控中心主管领导、分公司专家审查，由作业部设备主管及工艺主管、主管经理会签，由相关管理部室相关科室专业人员或领导以及主管经理审核，由分公司安全总监和仪表副总师审定，由分公司主管副总经理批准",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-243",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统的大修原则上随装置停工大修（   ）进行。",
+      "options": [
+        "单独",
+        "单独",
+        "单独",
+        "单独"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-244",
+      "category": "equipment",
+      "type": "single",
+      "question": "装置间物料平衡、能耗核算的计量仪表为（   ）级设备。",
+      "options": [
+        "A",
+        "A",
+        "A",
+        "A"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-245",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁保护系统严格执行HG/T20511－2014《信号报警及联锁系统设计规范》、（   ）等规范要求，",
+      "options": [
+        "GB/T50770－2013《石油化工安全仪表系统设计规范》",
+        "GB/T50770－2013《石油化工安全仪表系统设计规范》",
+        "GB/T50770－2013《石油化工安全仪表系统设计规范》",
+        "GB/T50770－2013《石油化工安全仪表系统设计规范》"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-246",
+      "category": "equipment",
+      "type": "single",
+      "question": "DCS服务器热备切换、固定式可燃及有毒气体报警器通气试验，每（   ）至少进行1次。",
+      "options": [
+        "月",
+        "月",
+        "月",
+        "月"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-247",
+      "category": "equipment",
+      "type": "single",
+      "question": "B级短信报警，主要包含B级控制系统（控制系统故障危及单套非关键装置检修和B级设备抢修）的控制系统本身的控制器卡件、通讯设备和网络、IO卡件和IOlink、电源模块等故障状态，3500系统、可以监控的SIS/CCS等外部系统和仪表设备的故障状态。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-248",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁变更属于重大变更，必须（   ）",
+      "options": [
+        "按照《广州石化变更管理办法》执行，",
+        "按照《广州石化变更管理办法》执行，",
+        "按照《广州石化变更管理办法》执行，",
+        "按照《广州石化变更管理办法》执行，"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-249",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁回路的检查方式是（   ）。",
+      "options": [
+        "文件查阅",
+        "文件查阅",
+        "文件查阅",
+        "文件查阅"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-250",
+      "category": "equipment",
+      "type": "single",
+      "question": "在串级控制系统中有两个控制器两个测量变送器两个执行器,两个对象。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-251",
+      "category": "equipment",
+      "type": "single",
+      "question": "液位计在安装使用前应进行液压试验，设计压力小于10MPa压容器用液位计应进行（   ）倍液位计公称压力的液压试验；设计压力大于或者等于10MPa压容器用的液位计，应进行1.25倍液位计公称压力的液压试验。",
+      "options": [
+        "1.5",
+        "1.5",
+        "1.5",
+        "1.5"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-252",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制系统的键锁开关应按照厂家建议置于运行位置，防止组态被外来程序随意修改；钥匙开关所带钥匙不应插于键锁上，防止误操作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-253",
+      "category": "equipment",
+      "type": "single",
+      "question": "定期检验方法包括（   ）。",
+      "options": [
+        "检定",
+        "检定",
+        "检定",
+        "检定"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-254",
+      "category": "equipment",
+      "type": "single",
+      "question": "DCS、PLC随装置重要性等级评级，国控环保仪表为A级设备",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-255",
+      "category": "equipment",
+      "type": "single",
+      "question": "操作监控层的工程组态文件、控制回路设定参数、报警及联锁设定值等重要数据进行备份和保护，双份异地存储，（   ）至少备份一次，每次备份至少保留一个大修周期。",
+      "options": [
+        "季度",
+        "季度",
+        "季度",
+        "季度"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-256",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁保护系统必须做到资料、图纸齐全准确，变更提出单位应及时关闭变更流程，对已经发生的联锁保护系统的变更进行后评价，要求当月完成。涉及联锁变更内容的《变更申请表》和《变更管理控制表》。由（   ）保存，（   ）备案，作业部每月向仪控中心移交涉及联锁变更内容并完成后评价的《变更申请表》和《变更管理控制表》。每周向仪控中心移交《联锁保护系统工作票》。",
+      "options": [
+        "仪控中心，生产作业部",
+        "仪控中心，生产作业部",
+        "仪控中心，生产作业部",
+        "仪控中心，生产作业部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-257",
+      "category": "equipment",
+      "type": "single",
+      "question": "应当对建设项目和在役装置中的每个SIF进行（   ），确定所有SIF满足了所需要的SIL。",
+      "options": [
+        "计算",
+        "计算",
+        "计算",
+        "计算"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-258",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间、工程师室温度为冬季（   ），夏季（   ）",
+      "options": [
+        "20℃±2℃",
+        "20℃±2℃",
+        "20℃±2℃",
+        "20℃±2℃"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-259",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜间、工程师室对湿度为（   ）。",
+      "options": [
+        "30%-50%",
+        "30%-50%",
+        "30%-50%",
+        "30%-50%"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-260",
+      "category": "equipment",
+      "type": "single",
+      "question": "至少每月二次的SOE软件运行情况检查，要求SOE记录功能应处于正常运行状态，且记录中不应有（   ）等现象。",
+      "options": [
+        "频繁报警",
+        "频繁报警",
+        "频繁报警",
+        "频繁报警"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-261",
+      "category": "equipment",
+      "type": "single",
+      "question": "允许控制系统机柜、辅助机柜、操作站配置维修插座。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-262",
+      "category": "equipment",
+      "type": "single",
+      "question": "进入机柜间作业人员采取（   ）措施，消除静电。",
+      "options": [
+        "静电释放",
+        "静电释放",
+        "静电释放",
+        "静电释放"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-263",
+      "category": "equipment",
+      "type": "single",
+      "question": "DCS服务器热备切换（   ）执行一次。",
+      "options": [
+        "每半月",
+        "每半月",
+        "每半月",
+        "每半月"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-264",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责外供动力计量仪表的安装、维护及校验工作。",
+      "options": [
+        "技术质量部",
+        "技术质量部",
+        "技术质量部",
+        "技术质量部"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-265",
+      "category": "equipment",
+      "type": "single",
+      "question": "化工区（   ）、（   ）、（   ）、芳烃抽提、聚苯乙烯、苯乙烯数据接口采用OPC连接方式，OPCServer由仪控中心维护，PHD缓存服务器由信息中心维护。",
+      "options": [
+        "聚乙烯",
+        "聚乙烯",
+        "聚乙烯",
+        "聚乙烯"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-266",
+      "category": "equipment",
+      "type": "single",
+      "question": "采用隔离式安全栅的本质安全系统，（ ）专门接地。齐纳式安全栅的本安系统接地与仪表信号回路接地（  ）分开。",
+      "options": [
+        "需要",
+        "需要",
+        "需要",
+        "需要"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-267",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜的照明及辅助用电，应引入（   ）电源供电。",
+      "options": [
+        "UPS",
+        "UPS",
+        "UPS",
+        "UPS"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-268",
+      "category": "equipment",
+      "type": "single",
+      "question": "允许人为拆分工单，规避监管。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-269",
+      "category": "equipment",
+      "type": "single",
+      "question": "对（   ）、（   ）、（   ）、带油雾润滑器的执行机构、刮板流量计等仪表进行润滑，每半年至少进行1次。",
+      "options": [
+        "高温浮球液位计",
+        "高温浮球液位计",
+        "高温浮球液位计",
+        "高温浮球液位计"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-270",
+      "category": "equipment",
+      "type": "single",
+      "question": "机柜布置时应避免机柜间连接电缆过多交叉。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-271",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责对固定式可燃气及有毒有害气体报警仪报警管理情况进行检查、监督、考核。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-272",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控专业定时性工作，对电源柜、系统柜、端子柜、安全栅柜、网络柜等机柜内的电子设备，（   ）至少开展一次红外成像检测。",
+      "options": [
+        "每周",
+        "每周",
+        "每周",
+        "每周"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-273",
+      "category": "equipment",
+      "type": "single",
+      "question": "工艺管道或工艺设备上仪表设备的根部阀、法兰、仪表管咀的焊接及管理由设备专业负责，仪表专业配合。静密封点的统计由（   ）负责。",
+      "options": [
+        "设备专业",
+        "设备专业",
+        "设备专业",
+        "设备专业"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-274",
+      "category": "equipment",
+      "type": "single",
+      "question": "工单的“PM作业类型”、“基本开始日期”、“专业类型”、“计划类型”、“费用种类”、“维修性质”、“费用项目号”等字段内容必须严格按规范、按实际准确填写。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-275",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责制定公司联锁管理制度，监督检查各单位的执行情况。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-276",
+      "category": "equipment",
+      "type": "single",
+      "question": "定期查看系统的控制器负荷和通讯负荷并做好记录。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-277",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪表风净化后的气体中不应含有（   ）气体（或蒸汽）。在操作压力下的气源露点，应比工作环境或历史上当地年极端最低温度至少低10℃。",
+      "options": [
+        "A易燃",
+        "A易燃",
+        "A易燃",
+        "A易燃"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-278",
+      "category": "equipment",
+      "type": "single",
+      "question": "转子流量计应安装在（  ）管道，介质的流向应（  ）。",
+      "options": [
+        "垂直",
+        "垂直",
+        "垂直",
+        "垂直"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-279",
+      "category": "equipment",
+      "type": "single",
+      "question": "工控系统的系统供电应采用（   ）供电方式。关键装置的工控系统供电宜采用双路UPS电源，一般装置的工控系统供电至少一路采用UPS电源。",
+      "options": [
+        "单路",
+        "单路",
+        "单路",
+        "单路"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-280",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁保护系统的辅助操作台/盘前开关、按钮及操作站软开关均由（   ）操作；机柜内/盘后开关、按钮均由（   ）操作。",
+      "options": [
+        "仪表人员，操作工，",
+        "仪表人员，操作工，",
+        "仪表人员，操作工，",
+        "仪表人员，操作工，"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-281",
+      "category": "equipment",
+      "type": "single",
+      "question": "《广州石化安全仪表系统安全完整性等级评估管理办法》适用于涉及SIS的（   ）、（   ）或（   ）的建设项目（以下简称建设项目）和在役装置或设施（以下简称在役装置）的SIL评估。",
+      "options": [
+        "新建",
+        "新建",
+        "新建",
+        "新建"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-282",
+      "category": "equipment",
+      "type": "single",
+      "question": "购置低值易耗品不得使用修理费用。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-283",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责在仪表报警信息石化通群提前通报可能引起仪表短信报警的维护工作安排。",
+      "options": [
+        "仪控中心",
+        "仪控中心",
+        "仪控中心",
+        "仪控中心"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-284",
+      "category": "equipment",
+      "type": "single",
+      "question": "工艺报警实行分级管理，根据工艺参数的重要程度和影响范围，将报警值分为（   ）管理。",
+      "options": [
+        "二级",
+        "二级",
+        "二级",
+        "二级"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-285",
+      "category": "equipment",
+      "type": "single",
+      "question": "（   ）负责对热电部、贮运部及水务部工艺报警值变更的审批，配合技术质量部对各作业部工艺报警运行管理情况进行检查、监督、考核。",
+      "options": [
+        "设备工程部",
+        "设备工程部",
+        "设备工程部",
+        "设备工程部"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-286",
+      "category": "equipment",
+      "type": "single",
+      "question": "操作监控层的操作站、工程师站和服务器等计算机应安装（   ）的防病毒软件，并采用具有进程和服务配置功能的应用程序白名单和（或者）黑名单策略。",
+      "options": [
+        "定型产品",
+        "定型产品",
+        "定型产品",
+        "定型产品"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-287",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控专业定时性工作，对进装置仪表风罐每季度进行一次排放，并进行露点和杂质检测，根据仪表风露点检测情况对仪表风管线末端进行排放,做好记录的执行频率为（   ）。",
+      "options": [
+        "1次/周",
+        "1次/周",
+        "1次/周",
+        "1次/周"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-288",
+      "category": "equipment",
+      "type": "single",
+      "question": "超声波流量计因避免安装在流束不稳定的位置，如（ ）、弯头、三通、变径等位置。",
+      "options": [
+        "泵出入口",
+        "泵出入口",
+        "泵出入口",
+        "泵出入口"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-289",
+      "category": "equipment",
+      "type": "single",
+      "question": "广州石化仪表设备按照ABC分类法进行分级，根据仪表设备在生产过程中的作用和特性，全部仪表设备根据不同种类分为关键设备（A）、主要设备（B）和一般设备（C）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-290",
+      "category": "equipment",
+      "type": "single",
+      "question": "原则上装置数据通信应采用（   ）方式，OPCServer与缓存服务器分开设置，并配置防火墙等网络隔离保护设备。",
+      "options": [
+        "FTP",
+        "FTP",
+        "FTP",
+        "FTP"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-291",
+      "category": "equipment",
+      "type": "single",
+      "question": "控制室和机柜间应设置机柜室、工程师室、UPS室、仪表维修间和空调机室等房间。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-292",
+      "category": "equipment",
+      "type": "single",
+      "question": "对现场非控制和报警联锁类的仪表检修质量验收，由第一级责任人作为最终确认；对于非关键装置的联锁仪表及系统的质量验收，由第二级责任人作为最终确认；而关键装置的联锁仪表及系统的质量验收，由第三级作为最终的验收确认单位",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-293",
+      "category": "equipment",
+      "type": "single",
+      "question": "进出机柜间通道、电缆通道要有防（   ）设施。",
+      "options": [
+        "蚊蝇",
+        "蚊蝇",
+        "蚊蝇",
+        "蚊蝇"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-294",
+      "category": "equipment",
+      "type": "single",
+      "question": "西门子S7-400H在线更换通讯卡属于高危操作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-295",
+      "category": "equipment",
+      "type": "single",
+      "question": "工程师室面积应按设备尺寸、工作要求及安装、维护所需的空间确定，并预留至少（   ）的扩展空间。",
+      "options": [
+        "10%",
+        "10%",
+        "10%",
+        "10%"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-296",
+      "category": "equipment",
+      "type": "single",
+      "question": "联锁解除是指因工艺原因或设备原因需要解除，并且在（   ）小时以上才能恢复的联锁保护变更过程。",
+      "options": [
+        "24",
+        "24",
+        "24",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-297",
+      "category": "equipment",
+      "type": "single",
+      "question": "与工控系统无关的网络和设备（   ）工控系统网络。",
+      "options": [
+        "共享连接",
+        "共享连接",
+        "共享连接",
+        "共享连接"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-298",
+      "category": "equipment",
+      "type": "single",
+      "question": "仪控专业定时性工作，对工程师站、服务器、操作站等上位机主机箱内部进行停电清扫执行周期为（ ）。",
+      "options": [
+        "月",
+        "月",
+        "月",
+        "月"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-299",
+      "category": "equipment",
+      "type": "single",
+      "question": "信号分配器、信号转换器、报警设定器、计量批控器和其它辅助仪表均应按一台件统计。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "equipment-300",
+      "category": "equipment",
+      "type": "single",
+      "question": "保运队管理单位负责开具工作票（   ），并协助保运队联系相关人员办理其它必要的手续，工作票齐全后保运队方可开始作业。",
+      "options": [
+        "现场施工作业票",
+        "现场施工作业票",
+        "现场施工作业票",
+        "现场施工作业票"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ]
+}
